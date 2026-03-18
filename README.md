@@ -13,7 +13,7 @@
 ### 💫 About Me
 I’m a 2nd year BCA student at Caset College of Computer Science, Srinagar, J&K, India, currently focused on frontend development.
 
-I’m actively learning React (Vite) and Tailwind CSS, with hands-on experience in React Router and Redux Toolkit. I enjoy building real-world projects to strengthen my fundamentals and improve my development skills.
+I’m actively learning React (Vite) and Tailwind CSS, with hands-on experience in React Router, Context API, and Redux Toolkit. I enjoy building real-world projects to strengthen my fundamentals and improve my development skills.
 
 My goal is to become a full stack web developer. I plan to move into backend development with Node.js and Express.js, work with MongoDB and SQL, and later explore Next.js.
 
@@ -31,11 +31,11 @@ I’m also interested in Data Structures and Algorithms and plan to practice usi
 ### 🚀 Featured Projects
 
 🔹 **React Todo App**  
-Built with React, ContextApi, Local Storage and Tailwind CSS  
+A Todo application built using React, Context API, Local Storage, and Tailwind CSS for state management and persistent data storage.  
 [📂 View Code](https://github.com/anasshiraz/todoContextLocal)
 
-🔹 **React Router App 2**  
-Built with React, React-Router-Dom, and Tailwind CSS 
+🔹 **React Router App**  
+A multi-page React application using React Router DOM with dynamic routing and clean UI styled with Tailwind CSS.  
 [📂 View Code](https://github.com/anasshiraz/reactRouter)
 
 ---
@@ -51,8 +51,16 @@ Built with React, React-Router-Dom, and Tailwind CSS
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,redux,nodejs,express,mongodb,mysql,java,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,redux,git,github&perline=7" />
 </p>
+
+---
+
+### 📌 Next Learning Goals
+- Node.js & Express.js  
+- MongoDB & SQL  
+- Next.js  
+- Data Structures & Algorithms (Java)  
 
 ---
 
