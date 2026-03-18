@@ -41,10 +41,11 @@ A multi-page React application using React Router DOM with dynamic routing and c
 ---
 
 ### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](#)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter)](#)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](#)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/_ianasss_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anas-shiraz)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter)](https://x.com/@ShirazAnas)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](anasshiraz666@gmail.com)
 
 ---
 
