@@ -1,82 +1,33 @@
-# Hi 👋 I'm Anas Shiraz
+#💫 About Me
 
-🎓 **BCA Student (2nd Year)**
-🏫 CASET College of Computer Science
-🎓 Affiliated with University of Kashmir, Srinagar, J&K, India
+I’m a 2nd year BCA student at Caset College of Computer Science, Srinagar, J&K, India, currently focused on frontend development.
 
-💻 **Aspiring Full Stack Web Developer** passionate about building modern web applications and continuously improving my development skills.
+I’m actively learning React (Vite) and Tailwind CSS, with hands-on experience in React Router and Redux Toolkit. I enjoy building real-world projects to strengthen my fundamentals and improve my development skills.
 
----
+My goal is to become a full stack web developer. I plan to move into backend development with Node.js and Express.js, work with MongoDB and SQL, and later explore Next.js.
 
-## 🚀 About Me
+I’m also interested in Data Structures and Algorithms and plan to practice using Java, with future plans to learn Spring Boot.
 
-* 🌱 Currently learning **React.js**
-* 🎯 Goal: Become a **Full Stack Web Developer**
-* 🔜 Planning to learn **Express.js, MongoDB, and Next.js**
-* 📚 Also focusing on **Data Structures & Algorithms in Java**
-* ⚡ Interested in building real-world web applications
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Ianasss_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-shiraz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ShirazAnas) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anas Shiraz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasshiraz666@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anasshiraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anasshiraz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasshiraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anasshiraz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Languages
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* HTML
-* CSS
-* JavaScript
-* C
-* Python
-* C#
-
-### Frontend
-
-* React.js
-* React Router
-* Tailwind CSS
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anasshiraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anasshiraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-Here are some projects I have built while learning web development:
-
-* React Router Based Application
-* Password Generator
-* Currency Converter App
-* Amazon Front Page Clone
-* Tic Tac Toe Game
-* Stone Paper Scissor Game
-* Theme Changer
-* Todo App using Context API & Local Storage
-* Many other small learning projects
-
----
-
-## 📚 Learning Roadmap
-
-My planned learning path:
-
-Frontend Mastery →
-React Ecosystem →
-Backend with **Express.js & MongoDB** →
-Full Stack Development →
-**Next.js** →
-**Data Structures & Algorithms (Java)** →
-**Spring Boot**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasshiraz\&show_icons=true)
-
----
-
-⭐ **Always learning, building, and improving as a developer.**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
