@@ -82,7 +82,7 @@ An interactive Tic Tac Toe game built with React featuring smooth UI, game logic
 
 A fun and responsive Rock Paper Scissors game focused on user interaction and game logic implementation.
 🌐 **Live Demo:** https://rock-paper-scissor-game-mu-virid.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/Rock-Paper-Scissors-Game
+📂 **Repository:** https://github.com/anasshiraz/Rock-Paper-Scissor-Game
 
 
 ---
