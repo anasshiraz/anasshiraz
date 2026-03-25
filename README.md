@@ -38,14 +38,6 @@ A fully functional Todo app built using React and Redux Toolkit for efficient st
 
 ---
 
-### 🔹 Currency Converter
-
-A dynamic currency converter application that provides real-time exchange calculations using API integration with a clean and intuitive UI.
-🌐 **Live Demo:** https://currency-convertor-gamma-five.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/currencyConvertor
-
----
-
 ### 🔹 Todo App (Context API, Local Storage)
 
 A fully functional Todo app using React Context API and Local Storage for state management and persistent data handling.
@@ -59,6 +51,14 @@ A fully functional Todo app using React Context API and Local Storage for state 
 A multi-page React application using React Router DOM with dynamic routing and a responsive UI styled using Tailwind CSS.
 🌐 **Live Demo:** https://react-router-nuxd.vercel.app/
 📂 **Repository:** https://github.com/anasshiraz/reactRouter
+
+---
+
+### 🔹 Currency Converter
+
+A dynamic currency converter application that provides real-time exchange calculations using API integration with a clean and intuitive UI.
+🌐 **Live Demo:** https://currency-convertor-gamma-five.vercel.app/
+📂 **Repository:** https://github.com/anasshiraz/currencyConvertor
 
 ---
 
