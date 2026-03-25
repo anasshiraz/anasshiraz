@@ -30,6 +30,14 @@ I’m also interested in Data Structures and Algorithms and plan to practice usi
 
 ## 🚀 Featured Projects
 
+### 🔹 Todo App (Redux Toolkit, Local Storage)
+
+A fully functional Todo app built using React and Redux Toolkit for efficient state management, featuring add, update, delete, and persistent data storage functionality.
+🌐 **Live Demo:** https://redux-toolkit-todo-pink.vercel.app/
+📂 **Repository:** https://github.com/anasshiraz/reduxToolkitTodo
+
+---
+
 ### 🔹 Currency Converter
 
 A dynamic currency converter application that provides real-time exchange calculations using API integration with a clean and intuitive UI.
@@ -38,7 +46,7 @@ A dynamic currency converter application that provides real-time exchange calcul
 
 ---
 
-### 🔹 Todo App (Context API)
+### 🔹 Todo App (Context API, Local Storage)
 
 A fully functional Todo app using React Context API and Local Storage for state management and persistent data handling.
 🌐 **Live Demo:** https://todo-context-local-self.vercel.app/
