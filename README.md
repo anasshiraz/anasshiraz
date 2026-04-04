@@ -30,68 +30,48 @@ I’m also interested in Data Structures and Algorithms and plan to practice usi
 
 ## 🚀 Featured Projects
 
+### 🔹 Appwrite Blog App (Full Stack)
+
+A full-stack blog application built with React and Appwrite backend featuring authentication, post management, image uploads, and protected routes.
+
+🌐 **Live Demo:** https://appwrite-blog-app-blond.vercel.app/  
+📂 **Repository:** https://github.com/anasshiraz/appwriteBlogApp
+
+---
+
 ### 🔹 Todo App (Redux Toolkit, Local Storage)
 
-A fully functional Todo app built using React and Redux Toolkit for efficient state management, featuring add, update, delete, and persistent data storage functionality.
-🌐 **Live Demo:** https://redux-toolkit-todo-pink.vercel.app/
+A fully functional Todo app built using React and Redux Toolkit for efficient state management with persistent storage.
+
+🌐 **Live Demo:** https://redux-toolkit-todo-pink.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/reduxToolkitTodo
 
 ---
 
 ### 🔹 Todo App (Context API, Local Storage)
 
-A fully functional Todo app using React Context API and Local Storage for state management and persistent data handling.
-🌐 **Live Demo:** https://todo-context-local-self.vercel.app/
+A React Todo application using Context API and Local Storage for state management and persistent data handling.
+
+🌐 **Live Demo:** https://todo-context-local-self.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/todoContextLocal
 
 ---
 
 ### 🔹 React Router App
 
-A multi-page React application using React Router DOM with dynamic routing and a responsive UI styled using Tailwind CSS.
-🌐 **Live Demo:** https://react-router-nuxd.vercel.app/
+A multi-page React application using React Router DOM with dynamic routing and responsive UI.
+
+🌐 **Live Demo:** https://react-router-nuxd.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/reactRouter
 
 ---
 
-### 🔹 Currency Converter
+### 🔹 Currency Converter (API Project)
 
-A dynamic currency converter application that provides real-time exchange calculations using API integration with a clean and intuitive UI.
-🌐 **Live Demo:** https://currency-convertor-gamma-five.vercel.app/
+A currency converter application using API integration for real-time exchange rates with a clean UI.
+
+🌐 **Live Demo:** https://currency-convertor-gamma-five.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/currencyConvertor
-
----
-
-### 🔹 Password Generator
-
-A secure password generator built with React that allows users to customize password length and complexity.
-🌐 **Live Demo:** https://password-generator-abw1.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/passwordGenerator
-
----
-
-### 🔹 Theme Switcher
-
-A modern theme switcher application that allows users to toggle between light and dark modes with smooth transitions and saved preferences.
-🌐 **Live Demo:** https://theme-switcher-ru2o.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/themeSwitcher
-
----
-
-### 🔹 Tic Tac Toe Game
-
-An interactive Tic Tac Toe game built with React featuring smooth UI, game logic, and win/draw handling.
-🌐 **Live Demo:** https://tic-tac-toe-game-beige-two.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/Tic-Tac-Toe-Game
-
----
-
-### 🔹 Rock Paper Scissors Game
-
-A fun and responsive Rock Paper Scissors game focused on user interaction and game logic implementation.
-🌐 **Live Demo:** https://rock-paper-scissor-game-mu-virid.vercel.app/
-📂 **Repository:** https://github.com/anasshiraz/Rock-Paper-Scissor-Game
-
 
 ---
 
