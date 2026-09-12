@@ -1,31 +1,62 @@
 # 👋 Hi, I'm Anas Shiraz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Building+Real+World+Projects;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;Python+%7C+FastAPI+Learner;Building+Real+World+Projects;Aspiring+Full+Stack+Developer" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anasshiraz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://anas-shiraz-portfolio.vercel.app/">
+    <strong>🌐 Visit My Portfolio →</strong>
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
 
-I'm a 2nd year BCA student at CASET College of Computer Science, Srinagar, J&K, India, currently focused on frontend development.
+I'm a 2nd year BCA student at CASET College of Computer Science, Srinagar, J&K, India, passionate about building web applications and continuously improving my development skills.
 
-I work with React, JavaScript, Tailwind CSS, React Router, Context API, and Redux Toolkit. I enjoy building real-world projects to strengthen my fundamentals and turn what I learn into practical applications.
+My primary focus has been frontend development, where I work with **JavaScript, React, Vite, Tailwind CSS, React Router, Context API, and Redux Toolkit**.
 
-My goal is to become a full-stack web developer. I'm currently strengthening my frontend skills and will be moving into backend development as I progress.
+I'm now expanding into backend development with **Python and FastAPI**, with the goal of becoming a well-rounded full-stack developer.
+
+I believe the best way to learn is by building real-world projects, experimenting with different technologies, and understanding how things work rather than simply following tutorials.
 
 ---
 
 ## 🚀 Currently Working On
 
-- Building real-world React projects
+- Building real-world React applications
 - Strengthening JavaScript and React fundamentals
-- Learning modern frontend development practices
-- Improving problem-solving skills
+- Learning backend development with Python & FastAPI
+- Understanding REST APIs and backend architecture
+- Improving problem-solving and programming fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux&perline=7" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=7" />
+</p>
+
+### Tools & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,appwrite,vscode&perline=7" />
+</p>
 
 ---
 
@@ -35,60 +66,66 @@ My goal is to become a full-stack web developer. I'm currently strengthening my 
 
 A full-stack blog application built with React and Appwrite featuring authentication, CRUD operations, image uploads, protected routes, and rich-text editing.
 
+**Tech:** React · Vite · Redux Toolkit · React Router · Appwrite · TinyMCE · Tailwind CSS
+
 🌐 **Live Demo:** https://appwrite-blog-app-blond.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/appwriteBlogApp
 
+---
+
 ### 🔹 Currency Converter
 
-A responsive currency converter built with React that integrates live exchange-rate data and includes currency swapping, custom hooks, and a modern UI.
+A responsive currency converter built with React that integrates live exchange-rate data and includes currency swapping, custom hooks, and a modern glass-morphism interface.
+
+**Tech:** React · Vite · Tailwind CSS · REST API · Custom Hooks
 
 🌐 **Live Demo:** https://currency-convertor-gamma-five.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/currencyConvertor
 
+---
+
 ### 🔹 Todo App — Redux Toolkit
 
-A React Todo application using Redux Toolkit for state management and Local Storage for persistent data.
+A functional Todo application demonstrating state management with Redux Toolkit and persistent data storage using Local Storage.
+
+**Tech:** React · Redux Toolkit · Local Storage · Tailwind CSS
 
 🌐 **Live Demo:** https://redux-toolkit-todo-pink.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/reduxToolkitTodo
 
+---
+
 ### 🔹 Todo App — Context API
 
-A React Todo application demonstrating state management with Context API and persistent data using Local Storage.
+A React Todo application built to understand global state management using Context API and persistent data using Local Storage.
+
+**Tech:** React · Context API · Local Storage
 
 🌐 **Live Demo:** https://todo-context-local-self.vercel.app/  
 📂 **Repository:** https://github.com/anasshiraz/todoContextLocal
 
 ---
 
-## 💻 Tech Stack
+### 🔹 React Router App
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,redux,git,github&perline=7" />
-</p>
+A multi-page React application demonstrating client-side routing, dynamic routes, navigation, and responsive UI.
 
----
+**Tech:** React · React Router · Vite · Tailwind CSS
 
-## 🌱 Next Learning Goals
-
-- Node.js & Express.js
-- MongoDB & SQL
-- Next.js
-- Data Structures & Algorithms
-- Java & Spring Boot
+🌐 **Live Demo:** https://react-router-nuxd.vercel.app/  
+📂 **Repository:** https://github.com/anasshiraz/reactRouter
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-shiraz-8025822b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anasshiraz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:anasshiraz666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```text
+Python
+   ↓
+FastAPI
+   ↓
+REST APIs
+   ↓
+Databases
+   ↓
+Full-Stack Development
