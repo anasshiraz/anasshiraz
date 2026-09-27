@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anas Shiraz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;Python+%7C+FastAPI+Learner;Building+Real+World+Projects;Aspiring+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+Intern;Frontend+Developer;React+%7C+Next.js+Developer;Building+Real+World+Projects;Aspiring+Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -18,23 +18,25 @@
 
 ## 💫 About Me
 
-I'm a 2nd year BCA student at CASET College of Computer Science, Srinagar, J&K, India, passionate about building web applications and continuously improving my development skills.
+I'm a **Software Developer Intern at GrowSharks** and a BCA Hons student passionate about building modern web applications and continuously improving my development skills.
 
-My primary focus has been frontend development, where I work with **JavaScript, React, Vite, Tailwind CSS, React Router, Context API, and Redux Toolkit**.
+My primary focus is frontend development, where I work with **JavaScript, React, Next.js and Tailwind CSS**. I'm gaining hands-on experience through real-world client projects and exploring the broader React and Next.js ecosystem.
 
-I'm now expanding into backend development with **Python and FastAPI**, with the goal of becoming a well-rounded full-stack developer.
+I'm also expanding into backend development with **Python, FastAPI, and PostgreSQL**, with the goal of becoming a strong full-stack developer.
 
-I believe the best way to learn is by building real-world projects, experimenting with different technologies, and understanding how things work rather than simply following tutorials.
+I believe the best way to learn is by building real-world projects, experimenting with different technologies, solving problems, and understanding how things work rather than simply following tutorials.
 
 ---
 
 ## 🚀 Currently Working On
 
-- Building real-world React applications
+- Building real-world web applications
+- Developing with React and Next.js
+- Exploring the Next.js and React ecosystem
+- Working with Git and GitHub in collaborative development
 - Strengthening JavaScript and React fundamentals
 - Learning backend development with Python & FastAPI
 - Understanding REST APIs and backend architecture
-- Improving problem-solving and programming fundamentals
 
 ---
 
@@ -43,13 +45,13 @@ I believe the best way to learn is by building real-world projects, experimentin
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind,redux&perline=8" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&perline=7" />
 </p>
 
 ### Tools & Services
@@ -120,12 +122,12 @@ A multi-page React application demonstrating client-side routing, dynamic routes
 ## 🌱 Currently Learning
 
 ```text
-Python
+Next.js
    ↓
 FastAPI
    ↓
 REST APIs
    ↓
-Databases
+PostgreSQL
    ↓
 Full-Stack Development
