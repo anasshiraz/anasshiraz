@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anas Shiraz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+Intern;Frontend+Developer;React+%7C+Next.js+Developer;Building+Real+World+Projects;Aspiring+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+Intern;Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Aspiring+Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -18,25 +18,26 @@
 
 ## 💫 About Me
 
-I'm a **Software Developer Intern at GrowSharks** and a BCA Hons student passionate about building modern web applications and continuously improving my development skills.
+I'm a **Software Developer Intern at GrowSharks** and a BCA Hons student passionate about building modern, responsive, and user-friendly web applications.
 
-My primary focus is frontend development, where I work with **JavaScript, React, Next.js and Tailwind CSS**. I'm gaining hands-on experience through real-world client projects and exploring the broader React and Next.js ecosystem.
+My primary focus is frontend development with **JavaScript, React, Next.js, and Tailwind CSS**. Through my internship, I'm gaining hands-on experience working in a professional development environment and building web applications for real-world clients.
 
-I'm also expanding into backend development with **Python, FastAPI, and PostgreSQL**, with the goal of becoming a strong full-stack developer.
+I'm also expanding into backend development with **Python, FastAPI, PostgreSQL, and REST APIs**, with the long-term goal of becoming a strong full-stack developer.
 
-I believe the best way to learn is by building real-world projects, experimenting with different technologies, solving problems, and understanding how things work rather than simply following tutorials.
+I enjoy learning by building, experimenting with new technologies, solving problems, and understanding how things work under the hood.
 
 ---
 
 ## 🚀 Currently Working On
 
-- Building real-world web applications
-- Developing with React and Next.js
-- Exploring the Next.js and React ecosystem
-- Working with Git and GitHub in collaborative development
-- Strengthening JavaScript and React fundamentals
-- Learning backend development with Python & FastAPI
-- Understanding REST APIs and backend architecture
+- Building web applications with React and Next.js
+- Gaining professional development experience at GrowSharks
+- Improving JavaScript and React fundamentals
+- Working with Git and GitHub for version control
+- Learning Next.js development patterns and best practices
+- Building backend skills with Python and FastAPI
+- Learning PostgreSQL and database fundamentals
+- Understanding REST APIs and full-stack application architecture
 
 ---
 
@@ -122,7 +123,7 @@ A multi-page React application demonstrating client-side routing, dynamic routes
 ## 🌱 Currently Learning
 
 ```text
-Next.js
+Python
    ↓
 FastAPI
    ↓
